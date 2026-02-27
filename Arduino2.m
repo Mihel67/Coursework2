@@ -2,7 +2,7 @@ clear all;
 close all;
 clc;
 
-% Establish connection with Arduino
+% Establish connection with Arduino ...
 % Replace 'COM3' with your actual Arduino port (check in Device Manager)
 % Examples: 'COM3' (Windows), '/dev/ttyUSB0' (Linux), '/dev/cu.usbmodem' (Mac)
 fprintf('Establishing connection with Arduino...\n');
